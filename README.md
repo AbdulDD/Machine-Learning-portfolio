@@ -16,3 +16,4 @@ Datasets used for different tasks are either public or created. For public datas
 
 # Projects
 1. Diagnosis of Disease using Random Forest: Tree Ensemble
+2. Exploratory Data Analysis of Pakistan Largest E-commerce Dataset
