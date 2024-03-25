@@ -8,4 +8,4 @@ For each and every task in this repository, a document (Task statement) is given
 - [x] Diagnosis of Disease using Random Forest: Tree Ensemble
 - [x] Exploratory Data Analysis of Pakistan Largest E-commerce Dataset
 - [x] A simple introduction to Linear Regression
-- [ ] Comparative study of different State-of-Art model for Rain Fall Predcition of on locally available dataset
+- [ ] Comparative study of different State-of-Art models for Rain Fall Predcition on locally available dataset
